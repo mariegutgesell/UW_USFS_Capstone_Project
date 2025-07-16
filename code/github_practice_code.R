@@ -4,7 +4,7 @@
 
 library(tidyverse)
 library(readxl)
-
+library(ggplot2)
 
 ##Read in comprehensive harvest data
 df <- read.csv("data/UW_tongass_harvest_data_clean_comprehensive.csv")
