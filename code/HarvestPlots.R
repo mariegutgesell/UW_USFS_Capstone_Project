@@ -129,4 +129,3 @@ ggplot(estimatedamt_data, aes(x = Year, y = Total_Estimated_Units, color = Taxa_
        x = "Year", y = "Estimated Number of Units Harvested", color = "Taxa") +
   scale_y_continuous(labels = scales::comma) +
   theme_minimal()
-

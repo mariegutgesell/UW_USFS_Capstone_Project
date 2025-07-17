@@ -34,9 +34,6 @@ ggplot(df_percap_total, aes(x = Year, y = Percap_sum_lb)) +
   theme_classic() +
   facet_wrap(~Site)
 
-
-##make some change to my script 
-
-##make another change that i dont know if i want tomerge 
+#test
 
   
